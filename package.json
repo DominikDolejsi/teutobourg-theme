@@ -1,0 +1,21 @@
+{
+  "name": "teutobourg",
+  "displayName": "Teutobourg",
+  "description": "My eagles!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Teutobourg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teutobourg-color-theme.json"
+      }
+    ]
+  }
+}
