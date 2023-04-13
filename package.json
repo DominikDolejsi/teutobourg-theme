@@ -2,7 +2,18 @@
   "name": "teutobourg",
   "displayName": "Teutobourg",
   "description": "My eagles!",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "bukefalus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DominikDolejsi/teutobourg-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "bukefalus",
+    "my eagles"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
